@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;Problem+Solver+💻;MERN+Stack+Enthusiast+🌐" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 ### 🚀 About Me
@@ -20,24 +21,31 @@ I am a passionate Full Stack Developer who loves building clean, scalable web ap
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps & Tools**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🧠 Coding Profiles & Analytics
+### 📊 Coding Profiles & Analytics
 
 <p align="center">
-  <!-- Dynamic GitHub Metrics -->
   <img src="https://github-readme-stats.vercel.app/api?username=pranjalt063-max&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pranjal's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalt063-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Alternative Reliable Leetcode dynamic card tracker -->
   <a href="https://leetcode.com/u/pranjalt23/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/pranjalt23?theme=dark&font=Fira%20Code" alt="LeetCode Stats Dashboard" width="70%" />
   </a>
@@ -51,7 +59,7 @@ I am a passionate Full Stack Developer who loves building clean, scalable web ap
   <a href="https://www.linkedin.com/in/pranjal-tiwari-b59328325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:pranjalt063@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranjalt063@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/pranjalt23" target="_blank">
