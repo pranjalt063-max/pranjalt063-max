@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranjalt063-max&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?pranjalt063-max&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -43,12 +43,12 @@ I am a passionate Full Stack Developer who loves building clean, scalable web ap
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalt063-max&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalt063-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?pranjalt063-max&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?pranjalt063-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalt063-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?pranjalt063-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I am a passionate Full Stack Developer who loves building clean, scalable web ap
 
 <p align="center">
   <a href="https://leetcode.com/u/pranjalt23/" target="_blank">
-    <img src="https://leetcode-stats-badge.herokuapp.com/?username=pranjalt23&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-badge.herokuapp.com/?pranjalt23&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
