@@ -4,60 +4,43 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;Problem+Solver+💻;MERN+Stack+Enthusiast+🌐" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?pranjalt063-max&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
 
 I am a passionate Full Stack Developer who loves building clean, scalable web applications and solving complex algorithmic challenges. I enjoy transforming ideas into high-quality code and constantly pushing my limits in competitive programming.
 
-* **Target:** Building robust MERN stack applications and mastering DSA.
-* 🌱 **Learning:** Advanced database optimization and system design.
-* 💬 **Ask Me About:** JavaScript, Web Development, or SQL queries.
-* ⚡ **Fun Fact:** I treat dark mode as a lifestyle rule, not a preference.
+- 🔭 **Current Focus:** Building robust MERN stack applications and mastering DSA.
+- 🌱 **Learning:** Advanced database optimization and system design.
+- 💬 **Ask Me About:** JavaScript, Web Development, or SQL queries.
+- ⚡ **Fun Fact:** I treat dark mode as a lifestyle rule, not a preference.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps & Tools**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-### 📊 GitHub Analytics
+### 🧠 Coding Profiles & Analytics
+
+Since third-party LeetCode badges can be unstable, here is a direct, clean dynamic link system to showcase your consistency alongside stable GitHub metrics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?pranjalt063-max&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?pranjalt063-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Dynamic GitHub Metrics -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalt23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pranjal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalt23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?pranjalt063-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧠 Coding Profiles (LeetCode)
-
-<p align="center">
+  <!-- Alternative Reliable Leetcode dynamic card tracker -->
   <a href="https://leetcode.com/u/pranjalt23/" target="_blank">
-    <img src="https://leetcode-stats-badge.herokuapp.com/?pranjalt23&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/pranjalt23?theme=dark&font=Fira%20Code" alt="LeetCode Stats Dashboard" width="70%" />
   </a>
 </p>
 
