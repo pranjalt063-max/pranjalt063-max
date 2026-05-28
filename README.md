@@ -30,12 +30,10 @@ I am a passionate Full Stack Developer who loves building clean, scalable web ap
 
 ### 🧠 Coding Profiles & Analytics
 
-Since third-party LeetCode badges can be unstable, here is a direct, clean dynamic link system to showcase your consistency alongside stable GitHub metrics:
-
 <p align="center">
   <!-- Dynamic GitHub Metrics -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalt23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pranjal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalt23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalt063-max&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pranjal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalt063-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -53,7 +51,7 @@ Since third-party LeetCode badges can be unstable, here is a direct, clean dynam
   <a href="https://www.linkedin.com/in/pranjal-tiwari-b59328325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pranjalt063@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/pranjalt23" target="_blank">
