@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=pranjalt063-max&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -14,29 +14,26 @@
 
 I am a passionate Full Stack Developer who loves building clean, scalable web applications and solving complex algorithmic challenges. I enjoy transforming ideas into high-quality code and constantly pushing my limits in competitive programming.
 
-*   🔭 **Current Focus:** Building robust MERN stack applications and mastering DSA.
-*   🌱 **Learning:** Advanced database optimization and system design.
-*   💬 **Ask Me About:** JavaScript, Web Development, or SQL queries.
-*   ⚡ **Fun Fact:** I treat dark mode as a lifestyle rule, not a preference.
+* **Target:** Building robust MERN stack applications and mastering DSA.
+* 🌱 **Learning:** Advanced database optimization and system design.
+* 💬 **Ask Me About:** JavaScript, Web Development, or SQL queries.
+* ⚡ **Fun Fact:** I treat dark mode as a lifestyle rule, not a preference.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br/>
-  <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <br/>
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -46,12 +43,12 @@ I am a passionate Full Stack Developer who loves building clean, scalable web ap
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalt063-max&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalt063-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalt063-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,7 +57,7 @@ I am a passionate Full Stack Developer who loves building clean, scalable web ap
 
 <p align="center">
   <a href="https://leetcode.com/u/pranjalt23/" target="_blank">
-    <img src="https://leetcode-stats-badge.herokuapp.com/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-badge.herokuapp.com/?username=pranjalt23&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
